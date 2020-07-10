@@ -1,4 +1,5 @@
 The following program is an English Dictionary.
+
 Replace data.json file to replace dictionary.
 
 To run
