@@ -18,7 +18,7 @@ def dictionary(word):
         if suggestion == 'y':
             return data[get_close_matches(word, data.keys(), cutoff=0.8)[0]]
         else:
-            return "The word does not existssss."
+            return "The word does not exist."
     else:
         return "Please enter a valid word."
 
